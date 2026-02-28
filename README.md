@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning html, js and css
 - 📫 How to reach me: in telegram @karikmn
 
-  #[Link to README of my site]([https://github.com/karelinis/karelinis/blob/main/README_site.md])
+  #[Link to README of my site](https://github.com/karelinis/karelinis/blob/main/README_site.md)
