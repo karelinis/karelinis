@@ -1,16 +1,13 @@
-## Hi there 👋
+##[RU] Привет 👋
 
-<!--
-**karelinis/karelinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Сейчас я работаю над своим сайтом
+- - 🌱 Сейчас я изучаю html, js и css
+- 📫 Как со мной связаться: в Telegram @karikmn
 
-Here are some ideas to get you started:
+##[EN] Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my site
+- 🌱 I’m currently learning html, js and css
+- 📫 How to reach me: in telegram @karikmn
+
+  #[Link to README of my site]([https://github.com/karelinis/karelinis/blob/main/README_site.md])
