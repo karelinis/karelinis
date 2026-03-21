@@ -1,4 +1,4 @@
-## [RU] Установка
+## [RU] Установка и запуск
 1.  Клонируйте репозиторий:
     ```bash
     git clone https://github.com/karelinis/karelinis.git
@@ -6,7 +6,7 @@
     ```
 2.  Запустите index.html
 
-## [EN] Installation
+## [EN] Installation and run
 1. Clone the repository:
    ```bash
    git clone https://github.com/karelinis/karelinis.git
